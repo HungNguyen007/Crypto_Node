@@ -1,0 +1,26 @@
+{
+  "name": "crypto_node",
+  "version": "1.0.0",
+  "description": "Crypto code snippets for Node.js",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "main": "Cipher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cipher",
+    "mnemonic"
+  ],
+  "author": "Hung Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.26",
+    "mnemonic": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HungNguyen007/Crypto_Node"
+  }
+}
